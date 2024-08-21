@@ -16,5 +16,6 @@ public class Exercicio1 {
 		soma = num1 + num2;
 		//Mostrar na tela
 		System.out.println("Soma:" + soma);
+		sc.close();
 		}
 }
